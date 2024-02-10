@@ -1,5 +1,5 @@
 ---
-title: WIP PicoCTF 2021 - Information
+title: PicoCTF 2021 - Information
 author: KaizoSauceA
 date: 2024-02-10 10:00:00 -0
 categories: [CTF,PicoCTF 2021]

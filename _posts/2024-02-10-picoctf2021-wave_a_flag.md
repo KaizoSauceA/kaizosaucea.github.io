@@ -1,5 +1,5 @@
 ---
-title: WIP PicoCTF 2021 - Wave a Flag
+title: PicoCTF 2021 - Wave a Flag
 author: KaizoSauceA
 date: 2024-02-10 09:00:00 -0
 categories: [CTF,PicoCTF 2021]
