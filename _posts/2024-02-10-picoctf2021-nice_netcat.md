@@ -6,6 +6,8 @@ categories: [CTF,PicoCTF 2021]
 tags: [picoctf_general-skills,linux,python]
 ---
 
+Refer to the [first entry](../picoctf2021-obedient_cat) in this series for folder structure and tips.
+
 ## Challenge Details
 
 > **Site:** [PicoCTF](https://play.picoctf.org/)  
