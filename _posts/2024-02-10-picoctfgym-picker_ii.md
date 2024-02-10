@@ -28,7 +28,7 @@ mkdir picker_ii && cd $_
 wget https://artifacts.picoctf.net/c/521/picker-II.py
 ```
 
-This is a more advanced version of the code we broke in [picker_i](../picogym-picker_i)
+This is a more advanced version of the code we broke in [picker_i](../picoctfgym-picker_i)
 
 Let's look at the source code file before we connect to the instance with netcat to try and work out what the program does. It is almost the same, but with the addition of a filter to check our input to prohibit us from directly inputting **win** to call the function for the flag.
 
