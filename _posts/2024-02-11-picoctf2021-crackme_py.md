@@ -61,7 +61,7 @@ picoCTF{1|\/|_4_p34|\|ut_dd2c4616}
 
 ### Flag
 
-> FLAG = "picoCTF{1|\/|_4_p34|\|ut_dd2c4616}"
+> FLAG = "picoCTF{1\|\/\|_4_p34\|\\|ut_dd2c4616}"
 {: .prompt-tip }
 
 Mark our folder as solved.
