@@ -29,7 +29,7 @@ wget https://mercury.picoctf.net/static/fd0e358d4b82695c220c0d6013c11484/crackme
 
 Opening the file reveals a program set to call a function **choose_greatest()**, but there is another unused function **decode_secret(secret)**. Let's create a new file called tinker.py so we can experiment.
 
-If we remove all the code related to the choose_greatest function, and instead call the decode_secret function passing in the bezos_cc_secret as the argument we should make progress. All the comments have been removed for simplicity below.
+If we remove all the code related to the choose_greatest function, and instead call the **decode_secret** function passing in the **bezos_cc_secret** as the argument we should make progress. All the comments have been removed for simplicity below.
 
 ```python
 bezos_cc_secret = "A:4@r%uL`M-^M0c0AbcM-MFE055a4ce`eN"
@@ -61,7 +61,7 @@ picoCTF{1|\/|_4_p34|\|ut_dd2c4616}
 
 ### Flag
 
-> FLAG = picoCTF{1|\/|_4_p34|\|ut_dd2c4616}
+> FLAG = "picoCTF{1|\/|_4_p34|\|ut_dd2c4616}"
 {: .prompt-tip }
 
 Mark our folder as solved.
