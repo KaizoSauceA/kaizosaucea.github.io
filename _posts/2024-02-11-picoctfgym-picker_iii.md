@@ -1,5 +1,5 @@
 ---
-title: PicoGym - Picker II
+title: PicoGym - Picker III
 author: KaizoSauceA
 date: 2024-02-11 07:30:00 -0
 categories: [CTF,PicoGym]
@@ -139,7 +139,7 @@ We need to get win along with a space after it (in order to be identified as an 
 # FUNC_TABLE_ENTRY_SIZE = 32
 # 4 * 32 = 128
 # "win" + " " = 4
-# make sure we subtract the length of "win" + " " from the total
+# make sure we subtract the length of "win" + " " from the total so the payload doesn't trigger the corrupted table check
 python
 >>> "win" + " " + ("x" * 124)
 'win xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
