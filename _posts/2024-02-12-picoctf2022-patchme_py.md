@@ -1,5 +1,5 @@
 ---
-title: PicoGym - PatchMe.py
+title: PicoCTF 2022 - PatchMe.py
 author: KaizoSauceA
 date: 2024-02-12 09:15:00 -0
 categories: [CTF,PicoCTF 2022]

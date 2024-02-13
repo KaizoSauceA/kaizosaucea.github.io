@@ -1,5 +1,5 @@
 ---
-title: PicoGym - UnpackMe.py
+title: PicoCTF 2022 - UnpackMe.py
 author: KaizoSauceA
 date: 2024-02-13 08:00:00 -0
 categories: [CTF,PicoCTF 2022]

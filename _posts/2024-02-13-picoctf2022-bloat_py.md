@@ -1,5 +1,5 @@
 ---
-title: PicoGym - Bloat.py
+title: PicoCTF 2022 - Bloat.py
 author: KaizoSauceA
 date: 2024-02-13 08:30:00 -0
 categories: [CTF,PicoCTF 2022]
