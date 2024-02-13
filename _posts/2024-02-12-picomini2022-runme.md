@@ -1,5 +1,5 @@
 ---
-title: PicoGym - RunMe.py
+title: PicoMini 2022 - RunMe.py
 author: KaizoSauceA
 date: 2024-02-12 09:00:00 -0
 categories: [CTF,PicoMini 2022]

@@ -1,5 +1,5 @@
 ---
-title: PicoGym - PW Crack 4
+title: PicoMini 2022 - PW Crack 4
 author: KaizoSauceA
 date: 2024-02-13 14:20:00 -0
 categories: [CTF,PicoMini 2022]
@@ -30,7 +30,7 @@ wget https://artifacts.picoctf.net/c/19/level4.flag.txt.enc
 wget https://artifacts.picoctf.net/c/19/level4.hash.bin
 ```
 
-If we open the level3.py file it looks very similar to the code from [PW Crack 3](../picomini2022-pw_crack3). In fact the internal operations of the py file look to be identical, except this time we have 100 possible passwords in the list. We can reuse the code we wrote previously. 
+If we open the level4.py file it looks very similar to the code from [PW Crack 3](../picomini2022-pw_crack3). In fact the internal operations of the py file look to be identical, except this time we have 100 possible passwords in the list. We can reuse the code we wrote previously. 
 
 Copy the file to tinker.py. Let's remove the printing of the hashes this time unless we want to flood the terminal. We are only interested in the correct password after all.
 

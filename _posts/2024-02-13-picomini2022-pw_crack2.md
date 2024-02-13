@@ -1,5 +1,5 @@
 ---
-title: PicoGym - PW Crack 2
+title: PicoMini 2022 - PW Crack 2
 author: KaizoSauceA
 date: 2024-02-13 10:20:00 -0
 categories: [CTF,PicoMini 2022]
