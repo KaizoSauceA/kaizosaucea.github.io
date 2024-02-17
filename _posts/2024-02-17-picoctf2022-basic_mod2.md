@@ -29,7 +29,7 @@ mkdir basic_mod2 && cd $_
 wget https://artifacts.picoctf.net/c/179/message.txt
 ```
 
-The is very similar to [basic-mod1](../picoctf2022-basic-mod1) so we can repurpose a lot of the python code written for that. We just need to work out how to calculate the modular inverse and add that logic to get the flag.
+The is very similar to [basic-mod1](../picoctf2022-basic_mod1) so we can repurpose a lot of the python code written for that. We just need to work out how to calculate the modular inverse and add that logic to get the flag.
 
 If we look at the [python docs](https://docs.python.org/3/library/functions.html#pow) for the pow() function we can see how to achieve this. Let's implement it into our code.
 
