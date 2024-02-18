@@ -15,7 +15,7 @@ Refer to the [first entry](../picoctf2021-obedient_cat) in this series for folde
 > **Description:** Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `6d448c9c`Additional details will be available after launching your challenge instance.*  
 > **Files:** N/A  
 > **Points:** 30  
-> * *Hint 1: Finding a cheatsheet for bash would be really helpful!*
+> * *Hint 1: Finding a cheat sheet for bash would be really helpful!*
 
 ## Investigation
 

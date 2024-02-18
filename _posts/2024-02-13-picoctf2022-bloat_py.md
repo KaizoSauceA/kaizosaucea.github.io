@@ -3,7 +3,7 @@ title: PicoCTF 2022 - Bloat.py
 author: KaizoSauceA
 date: 2024-02-13 08:30:00 -0
 categories: [CTF,PicoCTF 2022]
-tags: [picoctf_reverse_engineering,linux,python]
+tags: [picoctf_reverse-engineering,linux,python]
 ---
 
 Refer to the [first entry](../picoctf2021-obedient_cat) in this series for folder structure and tips.

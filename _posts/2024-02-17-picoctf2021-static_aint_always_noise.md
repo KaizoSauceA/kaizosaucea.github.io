@@ -12,7 +12,7 @@ Refer to the [first entry](../picoctf2021-obedient_cat) in this series for folde
 
 > **Site:** [PicoCTF](https://play.picoctf.org/)  
 > **Author:** syreal  
-> **Description:** Can you look at the data in this binary: static? This BASH script might help!*  
+> **Description:** Can you look at the data in this binary: static? This BASH script might help!  
 > **Files:** [static](https://mercury.picoctf.net/static/bc72945175d643626d6ea9a689672dbd/static) [BASH Script](https://mercury.picoctf.net/static/bc72945175d643626d6ea9a689672dbd/ltdis.sh)  
 > **Points:** 20  
 > * *No Hints*
