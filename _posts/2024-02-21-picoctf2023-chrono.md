@@ -1,5 +1,5 @@
 ---
-title: PicoCTF 2023 - First Grep
+title: PicoCTF 2023 - Chrono
 author: KaizoSauceA
 date: 2024-02-21 14:10:00 -0
 categories: [CTF,PicoCTF 2023]
